@@ -1,4 +1,4 @@
-## Hi there 👋, I am Sagramielgo, singer, actress, tv host and also PROUD PROGRAMMER 💻. <a href="https://twitter.com/sagramielgo"><img src="https://img.shields.io/twitter/follow/sagramielgo.svg?style=social" align="right"/></a>
+## Hi there 👋, I am Sagramielgo; proud programmer, singer, actress and tv host. <a href="https://twitter.com/sagramielgo"><img src="https://img.shields.io/twitter/follow/sagramielgo.svg?style=social" align="right"/></a>
 
 ![Javascript](https://img.shields.io/badge/-JavaScript-%234254a5?logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-%234254a5?logo=react&logoColor=white)
@@ -8,16 +8,16 @@
 ![CSS](https://img.shields.io/badge/CSS3-%234254a5?logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-%234254a5?logo=SASS&logoColor=white)
 
-I always wanted to be a singer 🎼, a teacher 📖 and an astronaut 👩‍🚀.
+I always wanted to be a singer, a teacher and an astronaut.
 My professional experience has been linked to music, communication, tv and radio 📺.
 
 I have travelled around the world, I have worked in Japan, Argentina, UK and different Spanish cities. I am an inquisitive person and a cultural diversity lover.
-
 I am self-taught in editing my own audio-visual material, my computer has been my travel partner.
 
 All these experiences helped me develop technical and managerial skills, such as: adaptability and empathy to understand the needs of each project. At work and in my personal life, I believe in team work.
+Formed in [@Adalab](https://github.com/Adalab) I am taking off as a front-end developer with enthusiasm.
 
-Formed in [@Adalab](https://github.com/Adalab) I am taking off as a front-end developer with enthusiasm. Houston, the countdown is starting 🚀.
+Houston, the countdown is starting 🚀.
 
 ## A little more about me:
 
@@ -40,6 +40,7 @@ I would also love to have a good conversation about:
 - 🐕 Animals, I love them all.
 
 Let's talk!
+
 Take a look to one of my project demos 📽️ [devRockets](https://www.youtube.com/watch?v=pdzEJnlMqdA)
 
 And also you can sing (lyrics in Spanish) this song I wrote about programming 🎵 [Indéntame](https://www.youtube.com/watch?v=gmcnZGeIjNk&t=2s)
