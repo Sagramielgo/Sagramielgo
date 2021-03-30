@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Sagramielgo, Sagra for my friends <a href="https://twitter.com/sagramielgo"><img src="https://img.shields.io/twitter/follow/sagramielgo.svg?style=social" align="right"/></a>
 
-I am an artist: singer, actress and tv host 🗞 and I am passionate by user experience and accessibility. Because of this, I decided run into the coding career 👩‍💻 and continue improving my knowledge and skills.
+I am an artist: singer, actress and tv host, and now also PROUD PROGRAMMER.
 
 :rocket: I'm focused on:
 
@@ -10,13 +10,14 @@ I am an artist: singer, actress and tv host 🗞 and I am passionate by user exp
 - Creation of SPAs with React;
 - Node JS and Express.
 
-:round_pushpin: [@Adalab](https://github.com/Adalab) was my first school, and I want to continue studying to become a full-stack developer and contribute to large projects.
+Formed in [@Adalab](https://github.com/Adalab)
 
 But in between, I would also love to have a good conversation about:
 
-- :coffee: Coffee
-- 🎬 Series (I am always open to suggestions)
-- 🎸
+- 🎬 Series & cinema (I love sci-fy).
+- 🎸 Music, specially jazz and real book standards.
+- 🏅 Sports, specially running. I'm a marathon runner, yesssss.
+- 🐕 Animals, I love them all.
 
 Let's talk!
 
@@ -26,16 +27,16 @@ Let's talk!
 let Sagra = {
 😄 pronouns: "she" | "her",
 🤹🏼 softSkills: ["perseverance", "empathy", "creativity", "resilience", "adaptability" ],
-/* ⚙️ currentlyWorkingOn: ["developing my skills from home"], */
+⚙️ currentlyWorkingOn: [""],
 🚧 iAmLookingFor: "fun and creative programming",
+💬 AskMeAbout: "Wathever you want!"
 }
 ```
 
-⚡ Fun fact: ... ,
+<!-- ⚡ Fun fact: ... ,
 🌱 I’m currently learning:
 👯 I’m looking to collaborate on ... ,
-🤔 I’m looking for help with ... ,
-💬 Ask me about ... ,
+🤔 I’m looking for help with ...  -->,
 
 <!-- ## Some of my projects:
 
@@ -60,7 +61,6 @@ BEcodeTIFUL. Responsive web designed with HTML5 y CSS3 with which we introduce o
 
 #### 📑 References:
 
-- The powerful [Shields.io](https://shields.io/) API and website.
 - Emojis from [Emojipedia](https://emojipedia.org/).
 - Icons from [SimpleIcons](https://simpleicons.org/).
 
