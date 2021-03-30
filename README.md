@@ -2,7 +2,7 @@
 
 ## I am an artist: singer, actress and tv host. And now also PROUD PROGRAMMER 💻.
 
-I always wanted to be a singer 🎤, a teacher 📖 and an astronaut 👩‍🚀.
+I always wanted to be a singer 🎼, a teacher 📖 and an astronaut 👩‍🚀.
 With effort and dedication I studied Philology, singing, music and theatre; my professional experience has been linked to music, communication, tv and radio 📺.
 
 I have travelled around the world, I have worked in Japan, Argentina, UK and different Spanish cities. I am an inquisitive person, cultural diversity lover and passionate about comparative linguistics.
@@ -14,7 +14,8 @@ All these experiences helped me develop technical and managerial skills, such as
 
 Formed in [@Adalab](https://github.com/Adalab) I am taking off as a front-end developer with enthusiasm. Houston, the countdown is starting 🚀.
 
-Take a look to one fo my project demos [HERE](https://www.youtube.com/watch?v=pdzEJnlMqdA)📽️
+Take a look to one of my project demos 📽️ [devRockets](https://www.youtube.com/watch?v=pdzEJnlMqdA)
+And also you can sing (lyrics in Spanish) this song I wrote about programming 🎵 [Indéntame] (https://www.youtube.com/watch?v=gmcnZGeIjNk&t=2s)
 
 I'm focused on:
 
