@@ -1,4 +1,4 @@
-## Hi there 👋, I am Sagramielgo, Sagra for my friends <a href="https://twitter.com/sagramielgo"><img src="https://img.shields.io/twitter/follow/cvcastanosagramielgo.svg?style=social" align="right"/></a>
+## Hi there 👋, I am Sagramielgo, Sagra for my friends <a href="https://twitter.com/sagramielgo"><img src="https://img.shields.io/twitter/follow/sagramielgo.svg?style=social" align="right"/></a>
 
 I am an artist: singer, actress and tv host 🗞 and I am passionate by user experience and accessibility. Because of this, I decided run into the coding career 👩‍💻 and continue improving my knowledge and skills.
 
@@ -16,6 +16,7 @@ But in between, I would also love to have a good conversation about:
 
 - :coffee: Coffee
 - 🎬 Series (I am always open to suggestions)
+- 🎸
 
 Let's talk!
 
@@ -48,21 +49,12 @@ Rick & Morty Characters Finder. Responsive app with a list of Rick & Morty chara
 Anonymous Proxy. Responsive web designed with HTML5 y CSS3.
 <a href="https://github.com/cvcastano/BEcodeTIFUL"><img img alt="Becodetiful logo" src="https://github.com/Adalab/project-promo-l-module-1-team-8/raw/master/src/images/logo_readme.png" height=50px /></a>
 BEcodeTIFUL. Responsive web designed with HTML5 y CSS3 with which we introduce ourselves as a team into the world of development.
-
-## Certifications
-
-Front-end Developer at <a href="https://adalab.es"><img alt="Adalab" src="https://adalab.es/wp-content/themes/adalab/assets/legacy/images/logo-adalab.svg" width="70px"/></a>
-
-## GitHub Stats:
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cvcastano&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cvcastano&layout=compact&theme=radical)](https://github.com/cvcastano/github-readme-stats) -->
+ -->
 
 ## 📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/sagramielgo/"><img img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0e76a8.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/cvcastanosagramielgo"><img alt="Instagram" src="https://img.shields.io/badge/instagram-dd2a7b.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://github.com/cvcastanosagramielgo"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-2f363d.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://github.com/sagramielgo"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-2f363d.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="mailto:sagramielgo@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://twitter.com/sagramielgo"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
@@ -71,6 +63,5 @@ Front-end Developer at <a href="https://adalab.es"><img alt="Adalab" src="https:
 - The powerful [Shields.io](https://shields.io/) API and website.
 - Emojis from [Emojipedia](https://emojipedia.org/).
 - Icons from [SimpleIcons](https://simpleicons.org/).
-- [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats) for info about the stats.
 
 <!-- [If you liked this ✨ _special_ ✨ repository, please do not forget to star it.](url)-->
