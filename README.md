@@ -15,7 +15,8 @@ All these experiences helped me develop technical and managerial skills, such as
 Formed in [@Adalab](https://github.com/Adalab) I am taking off as a front-end developer with enthusiasm. Houston, the countdown is starting 🚀.
 
 Take a look to one of my project demos 📽️ [devRockets](https://www.youtube.com/watch?v=pdzEJnlMqdA)
-And also you can sing (lyrics in Spanish) this song I wrote about programming 🎵 [Indéntame] (https://www.youtube.com/watch?v=gmcnZGeIjNk&t=2s)
+
+And also you can sing (lyrics in Spanish) this song I wrote about programming 🎵 [Indéntame](https://www.youtube.com/watch?v=gmcnZGeIjNk&t=2s)
 
 I'm focused on:
 
