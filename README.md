@@ -14,7 +14,7 @@ All these experiences helped me develop technical and managerial skills, such as
 
 Formed in [@Adalab](https://github.com/Adalab) I am taking off as a front-end developer with enthusiasm. Houston, the countdown is starting 🚀.
 
-Take a look to one fo my project demos [here](https://www.youtube.com/watch?v=pdzEJnlMqdA)
+Take a look to one fo my project demos [HERE](https://www.youtube.com/watch?v=pdzEJnlMqdA)📽️
 
 I'm focused on:
 
