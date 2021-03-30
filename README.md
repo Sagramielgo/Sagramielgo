@@ -18,7 +18,6 @@ I am self-taught in editing my own audio-visual material, my computer has been m
 
 All these experiences helped me develop technical and managerial skills, such as: adaptability and empathy to understand the needs of each project. At work and in my personal life, I believe in team work.
 Formed in [@Adalab](https://github.com/Adalab) I am taking off as a front-end developer with enthusiasm.
-
 Houston, the countdown is starting 🚀.
 
 ## A little more about me:
