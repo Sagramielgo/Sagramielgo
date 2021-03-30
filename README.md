@@ -1,4 +1,6 @@
-## Hi there 👋, I am Sagramielgo; proud programmer, singer, actress and tv host. <a href="https://twitter.com/sagramielgo"><img src="https://img.shields.io/twitter/follow/sagramielgo.svg?style=social" align="right"/></a>
+## Hi there 👋, I am Sagramielgo: proud programmer. <a href="https://twitter.com/sagramielgo"><img src="https://img.shields.io/twitter/follow/sagramielgo.svg?style=social" align="right"/></a>
+
+## Also singer, actress and tv host.
 
 ![Javascript](https://img.shields.io/badge/-JavaScript-%234254a5?logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-%234254a5?logo=react&logoColor=white)
