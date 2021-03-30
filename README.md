@@ -39,7 +39,7 @@ Let's talk!
 let Sagra = {
 😄 pronouns: "she" | "her",
 🤹🏼 softSkills: ["perseverance", "team-working", "empathy", "creativity", "adaptability" ],
-⚙️ currentlyWorkingOn: "comunication and front-end projects",
+⚙️ currentlyWorkingOn: "communication and front-end projects",
 🚧 iAmLookingFor: "fun and creative programming",
 💬 AskMeAbout: "Whatever you want!"
 }
