@@ -1,14 +1,18 @@
 ## Hi there 👋, I am Sagramielgo, Sagra for my friends <a href="https://twitter.com/sagramielgo"><img src="https://img.shields.io/twitter/follow/sagramielgo.svg?style=social" align="right"/></a>
 
-## I am an artist: singer, actress and tv host, and now also PROUD PROGRAMMER 💻.
+## I am an artist: singer, actress and tv host. And now also PROUD PROGRAMMER 💻.
 
 I always wanted to be a singer 🎤, a teacher 📖 and an astronaut 👩‍🚀.
 With effort and dedication I studied Philology, singing, music and theatre; my professional experience has been linked to music, communication, tv and radio 📺.
+
 I have travelled around the world, I have worked in Japan, Argentina, UK and different Spanish cities. I am an inquisitive person, cultural diversity lover and passionate about comparative linguistics.
+
 I am self-taught in editing my own audio-visual material, my computer has been my travel partner.
 I am tenacious and committed, and a disciplined sports person.
+
 All these experiences helped me develop technical and managerial skills, such as: adaptability and empathy to understand the needs of each project. I overcame adversities with other people's help, that is why, at work and in my personal life, I believe in team work.
-I am taking off as a front-end developer with enthusiasm. Houston, the countdown is starting 🚀.
+
+Formed in [@Adalab](https://github.com/Adalab) I am taking off as a front-end developer with enthusiasm. Houston, the countdown is starting 🚀.
 
 I'm focused on:
 
@@ -17,13 +21,13 @@ I'm focused on:
 - Version control with Git;
 - Creation of SPAs with React;
 - Node JS and Express.
-
-Formed in [@Adalab](https://github.com/Adalab)
+- Agile & SCRUM
 
 I would also love to have a good conversation about:
 
 - 🎬 Series & cinema (I love sci-fy).
 - 🎸 Music, specially jazz and real book standards.
+- ✈️ Travelling, around the world.
 - 🏅 Sports, specially running. I'm a marathon runner, yesssss.
 - 🐕 Animals, I love them all.
 
