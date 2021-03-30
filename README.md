@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Sagramielgo: proud programmer. <a href="https://twitter.com/sagramielgo"><img src="https://img.shields.io/twitter/follow/sagramielgo.svg?style=social" align="right"/></a>
 
-## Also singer, actress and tv host.
+## Also singer, actress and tv host 📺.
 
 ![Javascript](https://img.shields.io/badge/-JavaScript-%234254a5?logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-%234254a5?logo=react&logoColor=white)
@@ -11,7 +11,7 @@
 ![SASS](https://img.shields.io/badge/SASS-%234254a5?logo=SASS&logoColor=white)
 
 I always wanted to be a singer, a teacher and an astronaut.
-My professional experience has been linked to music, communication, tv and radio 📺.
+My professional experience has been linked to music, communication, tv and radio.
 
 I have travelled around the world, I have worked in Japan, Argentina, UK and different Spanish cities. I am an inquisitive person and a cultural diversity lover.
 I am self-taught in editing my own audio-visual material, my computer has been my travel partner.
