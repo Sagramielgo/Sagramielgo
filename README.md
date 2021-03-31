@@ -11,16 +11,15 @@
 <h3> My Projects :</h3>
   
   
-<img src="https://img.icons8.com/color/48/000000/rick-sanchez.png" alt="Rick and Morty" height="30" width="30"/><a href="https://sagramielgo.github.io/characters-finder-rick-and-morty-Sagramielgo/">Rick & Morty</a>
+<img src="https://img.icons8.com/color/48/000000/rick-sanchez.png" alt="Rick and Morty" height="30" width="30"/><a href="https://sagramielgo.github.io/characters-finder-rick-and-morty-Sagramielgo/">  Rick & Morty.</a> API rest, React, Grid, animations.
 
-<img src="https://img.icons8.com/plasticine/100/000000/retro-tv.png" alt="Tv series finder" height="30" width="30"/><a href="https://sagramielgo.github.io/tvseries-finder-Sagramielgo/">TV series finder</a>
+<img src="https://img.icons8.com/plasticine/100/000000/retro-tv.png" alt="Tv series finder" height="30" width="30"/><a href="https://sagramielgo.github.io/tvseries-finder-Sagramielgo/"> Tv series finder.</a> JavaScript, Flex-box.
+<img src="./images/tree-logo.png" alt="React Magicians" height="30" width="30"/><a href="https://sagramielgo-react-magicians.herokuapp.com/"> React Magicians.</a> Refactorize to React a JavaScript inherited code.
+Node js, Express js, servers y database SQLite.
 
-<img src="./images/tree-logo.png" alt="React Magicians" height="30" width="30"/><a href="https://sagramielgo-react-magicians.herokuapp.com/">React Magicians</a>
-
-<img src="./images/rocket.png" alt="DevRockets" height="30" width="30"/><a href="https://sagramielgo.github.io/sagramielgo-dev-rockets">DevRockets</a>
+<img src="./images/rocket.png" alt="DevRockets" height="30" width="30"/><a href="https://sagramielgo.github.io/sagramielgo-dev-rockets"> DevRockets.</a> Layout HTML5, SASS, responsive mobile first.
 
 My CV
-
 [<img witdh="50" height="30" src="./images/english.png">](https://www.canva.com/design/DAEaU8W_i84/qZWsi-I_RYcK2CYh-fXd8w/view?utm_content=DAEaU8W_i84&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 [<img witdh="50" height="30" margin-left="30" src="./images/Spain.png">](https://www.canva.com/design/DAEZ2Mtwndk/uHBzisZEzudrN5JEoOykcw/view?utm_content=DAEZ2Mtwndk&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
