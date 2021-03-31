@@ -11,13 +11,13 @@
 <h3> My Projects :</h3>
   
   
-<a href="https://sagramielgo.github.io/characters-finder-rick-and-morty-Sagramielgo/"><img src="https://img.icons8.com/color/48/000000/rick-sanchez.png" alt="Sagramielgo" height="30" width="30"/>Rick & Morty</a>
+<img src="https://img.icons8.com/color/48/000000/rick-sanchez.png" alt="Rick and Morty" height="30" width="30"/><a href="https://sagramielgo.github.io/characters-finder-rick-and-morty-Sagramielgo/">Rick & Morty</a>
 
-<a href="https://sagramielgo.github.io/tvseries-finder-Sagramielgo/"><img src="https://img.icons8.com/plasticine/100/000000/retro-tv.png" alt="Sagramielgo" height="30" width="30"/> TV series finder</a>
+<img src="https://img.icons8.com/plasticine/100/000000/retro-tv.png" alt="Tv series finder" height="30" width="30"/><a href="https://sagramielgo.github.io/tvseries-finder-Sagramielgo/">TV series finder</a>
 
-<a href="https://sagramielgo-react-magicians.herokuapp.com/"><img src="./images/tree-logo" alt="Sagramielgo" height="30" width="30"/>React Magicians</a>
+<img src="./images/tree-logo.png" alt="React Magicians" height="30" width="30"/><a href="https://sagramielgo-react-magicians.herokuapp.com/">React Magicians</a>
 
-<a href="https://sagramielgo.github.io/sagramielgo-dev-rockets"><img src="https://icons8.com/icon/bY5t0noHcfXn/rocket-emji" alt="Sagramielgo" height="30" width="30"/>DevRockets</a>
+<img src="./images/rocket.png" alt="DevRockets" height="30" width="30"/><a href="https://sagramielgo.github.io/sagramielgo-dev-rockets">DevRockets</a>
 
 My CV
 
