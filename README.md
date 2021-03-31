@@ -8,6 +8,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-%234254a5?logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-%234254a5?logo=SASS&logoColor=white)
 
+<hr/>
 <h3> My Projects :</h3>
   
   
@@ -20,6 +21,8 @@ Node js, Express js, servers y database SQLite.
 
 <img src="./images/rocket.png" alt="DevRockets" height="30" width="30"/><a href="https://sagramielgo.github.io/sagramielgo-dev-rockets"> DevRockets.</a> Layout HTML5, SASS, responsive mobile first.
 
+<hr/>
+
 I always wanted to be a singer, a teacher and an astronaut.
 My professional experience has been linked to music, communication, tv and radio.
 
@@ -30,6 +33,7 @@ All these experiences helped me develop technical and managerial skills, such as
 Formed in [@Adalab](https://github.com/Adalab) I am taking off as a front-end developer with enthusiasm.
 Houston, the countdown is starting 🚀.
 
+<hr/>
 My CV.
 
 [<img witdh="50" height="30" src="./images/english.png">](https://www.canva.com/design/DAEaU8W_i84/qZWsi-I_RYcK2CYh-fXd8w/view?utm_content=DAEaU8W_i84&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) 🔗
