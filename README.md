@@ -10,7 +10,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-%234254a5?logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-%234254a5?logo=SASS&logoColor=white)
 
-[<img witdh="10" height="5" src="./images/english.png">](file:///C:/Users/sagra/Downloads/CV%20SAGRA%20MIELGO-ENG%20Front-end.pdf)
+[<img witdh="50" height="30" src="./images/english.png">](https://www.canva.com/design/DAEaU8W_i84/qZWsi-I_RYcK2CYh-fXd8w/view?utm_content=DAEaU8W_i84&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 I always wanted to be a singer, a teacher and an astronaut.
 My professional experience has been linked to music, communication, tv and radio.
