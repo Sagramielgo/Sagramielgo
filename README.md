@@ -34,11 +34,12 @@ Formed in [@Adalab](https://github.com/Adalab) I am taking off as a front-end de
 Houston, the countdown is starting 🚀.
 
 <hr/>
-My CV.
+<h3> My CV </h3>
 
 [<img witdh="50" height="30" src="./images/english.png">](https://www.canva.com/design/DAEaU8W_i84/qZWsi-I_RYcK2CYh-fXd8w/view?utm_content=DAEaU8W_i84&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) 🔗
 [<img witdh="50" height="30" margin-left="30" src="./images/Spain.png">](https://www.canva.com/design/DAEZ2Mtwndk/uHBzisZEzudrN5JEoOykcw/view?utm_content=DAEZ2Mtwndk&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) 🔗
 
+<hr/>
 ## A little more about me:
 
 ```javascript
@@ -69,7 +70,7 @@ And also you can sing (lyrics in Spanish) this song I wrote about programming �
 🌱 I’m currently learning:
 👯 I’m looking to collaborate on ... ,
 🤔 I’m looking for help with ...  -->,
-
+<hr/>
 ## 📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/sagramielgo/"><img img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0e76a8.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
