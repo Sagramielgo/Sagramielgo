@@ -12,14 +12,14 @@
 <h3> My Projects :</h3>
   
   
-<img src="https://img.icons8.com/color/48/000000/rick-sanchez.png" alt="Rick and Morty" height="30" width="30"/><a href="https://sagramielgo.github.io/characters-finder-rick-and-morty-Sagramielgo/" target="_blank">  Rick & Morty.</a> API rest, React, Grid, animations.
+<img src="https://img.icons8.com/color/48/000000/rick-sanchez.png" alt="Rick and Morty" height="30" width="30"/><a href="https://sagramielgo.github.io/characters-finder-rick-and-morty-Sagramielgo/">  Rick & Morty.</a> API rest, React, Grid, animations.
 
-<img src="https://img.icons8.com/plasticine/100/000000/retro-tv.png" alt="Tv series finder" height="30" width="30"/><a href="https://sagramielgo.github.io/tvseries-finder-Sagramielgo/" target="_blank"> Tv series finder.</a> JavaScript, Flex-box.
+<img src="https://img.icons8.com/plasticine/100/000000/retro-tv.png" alt="Tv series finder" height="30" width="30"/><a href="https://sagramielgo.github.io/tvseries-finder-Sagramielgo/"> Tv series finder.</a> JavaScript, Flex-box.
 
-<img src="./images/tree-logo.png" alt="React Magicians" height="30" width="30"/><a href="https://sagramielgo-react-magicians.herokuapp.com/" target="_blank"> React Magicians.</a> Refactorize to React a JavaScript inherited code.
+<img src="./images/tree-logo.png" alt="React Magicians" height="30" width="30"/><a href="https://sagramielgo-react-magicians.herokuapp.com/"> React Magicians.</a> Refactorize to React a JavaScript inherited code.
 Node js, Express js, servers y database SQLite.
 
-<img src="./images/rocket.png" alt="DevRockets" height="30" width="30"/><a href="https://sagramielgo.github.io/sagramielgo-dev-rockets" target="_blank"> DevRockets.</a> Layout HTML5, SASS, responsive mobile first.
+<img src="./images/rocket.png" alt="DevRockets" height="30" width="30"/><a href="https://sagramielgo.github.io/sagramielgo-dev-rockets"> DevRockets.</a> Layout HTML5, SASS, responsive mobile first.
 
 <hr/>
 
@@ -34,7 +34,7 @@ Formed in [@Adalab](https://github.com/Adalab) I am taking off as a front-end de
 Houston, the countdown is starting 🚀.
 
 <hr/>
-<h3> My CV </h3>
+<h3> My CV </h3> (CV icons and text are clickable)
 
 [<img witdh="50" height="30" src="./images/english.png">](https://www.canva.com/design/DAEaU8W_i84/qZWsi-I_RYcK2CYh-fXd8w/view?utm_content=DAEaU8W_i84&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) 🔗
 [<img witdh="50" height="30" margin-left="30" src="./images/Spain.png">](https://www.canva.com/design/DAEZ2Mtwndk/uHBzisZEzudrN5JEoOykcw/view?utm_content=DAEZ2Mtwndk&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) 🔗
@@ -75,10 +75,10 @@ And also you can sing (lyrics in Spanish) this song I wrote about programming �
 
 ## 📫 How to reach me:
 
-<a href="https://www.linkedin.com/in/sagramielgo/" target="_blank"><img img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0e76a8.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/sagramielgo" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-2f363d.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-<a href="mailto:sagramielgo@gmail.com" target="_blank"><img alt="gmail" src="https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://twitter.com/sagramielgo" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sagramielgo/"><img img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0e76a8.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/sagramielgo"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-2f363d.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="mailto:sagramielgo@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://twitter.com/sagramielgo"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
 #### 📑 References:
 
