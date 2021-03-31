@@ -40,6 +40,7 @@ Houston, the countdown is starting 🚀.
 [<img witdh="50" height="30" margin-left="30" src="./images/Spain.png">](https://www.canva.com/design/DAEZ2Mtwndk/uHBzisZEzudrN5JEoOykcw/view?utm_content=DAEZ2Mtwndk&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) 🔗
 
 <hr/>
+
 ## A little more about me:
 
 ```javascript
@@ -66,11 +67,12 @@ Take a look to one of my project demos 📽️ [devRockets](https://www.youtube.
 
 And also you can sing (lyrics in Spanish) this song I wrote about programming 🎵 [Indéntame](https://www.youtube.com/watch?v=gmcnZGeIjNk&t=2s)
 
+<hr/>
 <!-- ⚡ Fun fact: ... ,
 🌱 I’m currently learning:
 👯 I’m looking to collaborate on ... ,
 🤔 I’m looking for help with ...  -->,
-<hr/>
+
 ## 📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/sagramielgo/"><img img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0e76a8.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
