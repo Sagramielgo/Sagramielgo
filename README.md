@@ -20,11 +20,6 @@ Node js, Express js, servers y database SQLite.
 
 <img src="./images/rocket.png" alt="DevRockets" height="30" width="30"/><a href="https://sagramielgo.github.io/sagramielgo-dev-rockets"> DevRockets.</a> Layout HTML5, SASS, responsive mobile first.
 
-My CV. You can click on links.
-
-[<img witdh="50" height="30" src="./images/english.png">](https://www.canva.com/design/DAEaU8W_i84/qZWsi-I_RYcK2CYh-fXd8w/view?utm_content=DAEaU8W_i84&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
-[<img witdh="50" height="30" margin-left="30" src="./images/Spain.png">](https://www.canva.com/design/DAEZ2Mtwndk/uHBzisZEzudrN5JEoOykcw/view?utm_content=DAEZ2Mtwndk&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
-
 I always wanted to be a singer, a teacher and an astronaut.
 My professional experience has been linked to music, communication, tv and radio.
 
@@ -34,6 +29,11 @@ I am self-taught in editing my own audio-visual material, my computer has been m
 All these experiences helped me develop technical and managerial skills, such as: adaptability and empathy to understand the needs of each project. At work and in my personal life, I believe in team work.
 Formed in [@Adalab](https://github.com/Adalab) I am taking off as a front-end developer with enthusiasm.
 Houston, the countdown is starting 🚀.
+
+My CV. You can click on links.
+
+[<img witdh="50" height="30" src="./images/english.png">](https://www.canva.com/design/DAEaU8W_i84/qZWsi-I_RYcK2CYh-fXd8w/view?utm_content=DAEaU8W_i84&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+[<img witdh="50" height="30" margin-left="30" src="./images/Spain.png">](https://www.canva.com/design/DAEZ2Mtwndk/uHBzisZEzudrN5JEoOykcw/view?utm_content=DAEZ2Mtwndk&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 ## A little more about me:
 
