@@ -9,19 +9,6 @@
 ![SASS](https://img.shields.io/badge/SASS-%234254a5?logo=SASS&logoColor=white)
 
 <hr/>
-<h3> My Projects :</h3>
-  
-  
-<img src="https://img.icons8.com/color/48/000000/rick-sanchez.png" alt="Rick and Morty" height="30" width="30"/><a href="https://sagramielgo.github.io/characters-finder-rick-and-morty-Sagramielgo/">  Rick & Morty.</a> API rest, React, Grid, animations.
-
-<img src="https://img.icons8.com/plasticine/100/000000/retro-tv.png" alt="Tv series finder" height="30" width="30"/><a href="https://sagramielgo.github.io/tvseries-finder-Sagramielgo/"> Tv series finder.</a> JavaScript, Flex-box.
-
-<img src="./images/tree-logo.png" alt="React Magicians" height="30" width="30"/><a href="https://sagramielgo-react-magicians.herokuapp.com/"> React Magicians.</a> Refactorize to React a JavaScript inherited code.
-Node js, Express js, servers y database SQLite.
-
-<img src="./images/rocket.png" alt="DevRockets" height="30" width="30"/><a href="https://sagramielgo.github.io/sagramielgo-dev-rockets"> DevRockets.</a> Layout HTML5, SASS, responsive mobile first.
-
-<hr/>
 
 I always wanted to be a singer, a teacher and an astronaut.
 My professional experience has been linked to music, communication, tv and radio.
@@ -32,6 +19,19 @@ I am self-taught in editing my own audio-visual material, my computer has been m
 All these experiences helped me develop technical and managerial skills, such as: adaptability and empathy to understand the needs of each project. At work and in my personal life, I believe in team work.
 Formed in [@Adalab](https://github.com/Adalab) I am taking off as a front-end developer with enthusiasm.
 Houston, the countdown is starting 🚀.
+
+<hr/>
+<h3> Some of my Projects :</h3>
+  
+  
+<img src="https://img.icons8.com/color/48/000000/rick-sanchez.png" alt="Rick and Morty" height="30" width="30"/><a href="https://sagramielgo.github.io/characters-finder-rick-and-morty-Sagramielgo/">  Rick & Morty.</a> API rest, React, Grid, animations.
+
+<img src="https://img.icons8.com/plasticine/100/000000/retro-tv.png" alt="Tv series finder" height="30" width="30"/><a href="https://sagramielgo.github.io/tvseries-finder-Sagramielgo/"> Tv series finder.</a> JavaScript, Flex-box.
+
+<img src="./images/tree-logo.png" alt="React Magicians" height="30" width="30"/><a href="https://sagramielgo-react-magicians.herokuapp.com/"> React Magicians.</a> Refactorize to React a JavaScript inherited code.
+Node js, Express js, servers y database SQLite.
+
+<img src="./images/rocket.png" alt="DevRockets" height="30" width="30"/><a href="https://sagramielgo.github.io/sagramielgo-dev-rockets"> DevRockets.</a> Layout HTML5, SASS, responsive mobile first.
 
 <hr/>
 <h3> My CV (There are some clickable elements inside the cv)</h3>
