@@ -85,6 +85,6 @@ And also you can sing (lyrics in Spanish) this song I wrote about programming �
 #### 📑 References:
 
 - Emojis from [Emojipedia](https://emojipedia.org/).
-- Icons from [SimpleIcons](https://simpleicons.org/).
+- Icon badges from [img.shields](https://img.shields.io/).
 
 <!-- [If you liked this ✨ _special_ ✨ repository, please do not forget to star it.](url)-->
