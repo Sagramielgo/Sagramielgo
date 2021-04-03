@@ -65,7 +65,7 @@ I would also love to have a good conversation about:
 
 Let's talk!
 
-Take a look at my project demos 📽️ [devRockets](https://www.youtube.com/watch?v=pdzEJnlMqdA) [This is Me](https://www.youtube.com/watch?v=SfTgr9eAIKc)
+Take a look at my project demos [📽️ devRockets](https://www.youtube.com/watch?v=pdzEJnlMqdA) [📽️ This is Me](https://www.youtube.com/watch?v=SfTgr9eAIKc)
 
 And also you can sing (lyrics in Spanish) this song I wrote about programming 🎵 [Indéntame](https://www.youtube.com/watch?v=gmcnZGeIjNk&t=2s)
 
