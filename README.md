@@ -1,4 +1,4 @@
-## Hi! 👋, I am Sagramielgo: proud programmer, tv host and vocal coach. <a href="https://twitter.com/sagramielgo"><img src="https://img.shields.io/twitter/follow/sagramielgo.svg?style=social" align="right"/></a>
+## Hi! 👋 I'm Sagramielgo: jr. front-end, tv host and vocal coach. <a href="https://twitter.com/sagramielgo"><img src="https://img.shields.io/twitter/follow/sagramielgo.svg?style=social" align="right"/></a>
 
 ![Javascript](https://img.shields.io/badge/-JavaScript-%234254a5?logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-%234254a5?logo=react&logoColor=white)
@@ -33,7 +33,7 @@ Node js, Express js, servers y database SQLite.
 
 <img src="./images/rocket.png" alt="DevRockets" height="30" width="30"/><a href="https://sagramielgo.github.io/sagramielgo-dev-rockets"> DevRockets.</a> Layout HTML5, SASS, responsive mobile first.
 
-<img src="./images/pokemon.png" alt="DevRockets" height="30" width="30"/><a href="https://sagramielgo.github.io/spa-con-react-Sagramielgo/"> Poke-React.</a> Simple SPA with React. Responsive design..
+<img src="./images/pokemon.png" alt="DevRockets" height="28" width="28"/><a href="https://sagramielgo.github.io/spa-con-react-Sagramielgo/"> Poke-React.</a> Simple SPA with React. Responsive design..
 
 <hr/>
 <h3> My CVs (There are some clickable text and icons inside them)</h3>
