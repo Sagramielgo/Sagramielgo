@@ -1,4 +1,4 @@
-## Hi there 👋, I am Sagramielgo: proud programmer. <a href="https://twitter.com/sagramielgo"><img src="https://img.shields.io/twitter/follow/sagramielgo.svg?style=social" align="right"/></a>
+## Hi! 👋, I am Sagramielgo: proud programmer, tv host and vocal coach. <a href="https://twitter.com/sagramielgo"><img src="https://img.shields.io/twitter/follow/sagramielgo.svg?style=social" align="right"/></a>
 
 ![Javascript](https://img.shields.io/badge/-JavaScript-%234254a5?logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-%234254a5?logo=react&logoColor=white)
@@ -33,8 +33,10 @@ Node js, Express js, servers y database SQLite.
 
 <img src="./images/rocket.png" alt="DevRockets" height="30" width="30"/><a href="https://sagramielgo.github.io/sagramielgo-dev-rockets"> DevRockets.</a> Layout HTML5, SASS, responsive mobile first.
 
+<img src="./images/pokemon.png" alt="DevRockets" height="30" width="30"/><a href="https://sagramielgo.github.io/spa-con-react-Sagramielgo/"> Poke-React.</a> Simple SPA with React. Responsive design..
+
 <hr/>
-<h3> My CV (There are some clickable elements inside the cv)</h3>
+<h3> My CVs (There are some clickable text and icons inside them)</h3>
 
 [<img witdh="50" height="30" src="./images/english.png">](https://www.canva.com/design/DAEaU8W_i84/qZWsi-I_RYcK2CYh-fXd8w/view?utm_content=DAEaU8W_i84&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) 🔗
 [<img witdh="50" height="30" margin-left="30" src="./images/Spain.png">](https://www.canva.com/design/DAEZ2Mtwndk/uHBzisZEzudrN5JEoOykcw/view?utm_content=DAEZ2Mtwndk&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) 🔗
@@ -63,7 +65,7 @@ I would also love to have a good conversation about:
 
 Let's talk!
 
-Take a look to one of my project demos 📽️ [devRockets](https://www.youtube.com/watch?v=pdzEJnlMqdA)
+Take a look at my project demos 📽️ [devRockets](https://www.youtube.com/watch?v=pdzEJnlMqdA) [This is Me](https://www.youtube.com/watch?v=SfTgr9eAIKc)
 
 And also you can sing (lyrics in Spanish) this song I wrote about programming 🎵 [Indéntame](https://www.youtube.com/watch?v=gmcnZGeIjNk&t=2s)
 
