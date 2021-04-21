@@ -22,7 +22,7 @@ Houston, the countdown is starting 🚀.
 
 ## My Portfolio
 
-[Web](https://sagramielgo.github.io/portfolio/#/) [Repo](https://github.com/Sagramielgo/portfolio)
+🔗[Web](https://sagramielgo.github.io/portfolio/#/) 🔗[Repo](https://github.com/Sagramielgo/portfolio)
 
 <hr/>
 <h3> Some of my Projects :</h3>
